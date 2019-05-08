@@ -212,7 +212,7 @@
 	name = "Cryoxadone"
 	id = "cryoxadone"
 	result = "cryoxadone"
-	required_reagents = list("stable_plasma" = 1, "oil" = 1, "mutagen" = 1)
+	required_reagents = list("plasma" = 1, "oil" = 1, "mutagen" = 1)
 	result_amount = 3
 
 /datum/chemical_reaction/clonexadone
